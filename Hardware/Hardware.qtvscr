@@ -1,0 +1,429 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2025-11-16 15:08:19",
+  "files": {
+    "D:\\c++\\My3DScanSystem\\Hardware\\Hardware.vcxproj": {
+      "before": "7VndTyM3EL/nSpX6B/QhWlEFHsgGwh20bPZUEspFDRBd+Hg5CTleh/hud72yvXy01/+947XXm83HwR4FKgQPEWvP2OOfZ34ztn/6+c0b7/1NFNauCBeUxW1no9F0aiTGLKDxZdtJ5Xh9x3nv//iDN+DsM8Gy1iVjlIbyBPFLIkXb2UtpGDg1GCWGr4mUyW+uK/CEREg0Ioo5E2wsG5hFbkCuSMgSwt1IjJSau9lsthwYvVbzepJEB5ylSa2PRiRsO2bCDovH9DLlSIKBQguD+KLeWi/GYRqQttMlo/Ty6zmNW5u5BuiUhvIzGc8tNypT1J83CJEcMx752SCea7+1BDRoPBap32HcRxISJMgd5hmp5zBQo3fzbuuh2MEQj4Lct0y7N24VjfNc66HaYcEBwJXlbclpD0I2QmHhpmcd4ydnOsL8je1G03Pnmo1X/UlurxkPtNMpTc/Nm4yEGe4gpYH/d+tXtL2N8Wh9Z7s1Wt/axK119I6M1hHZCLbGeAe33jb/sa6a6ZhhPjImj1BERIIw8T8gHlwjTjy33G6EIQQCdi10yOeBYBfUVAv6pogaJrOiwMvEfJQwLmtmTW1nZfWsY4hlgORk7dOh5Y9OkjQM9TQSQF44NXfRPkA8BlRRRdupr6yWonPt68pqbv1avd2uT7FE3clpp6SSB0CZOk5uE+L/niQhxRkrzcRo1m2gOxUkm6VPRxxxSoQveQo4z7cbhdzAE8ZCQaR/tbHVKmIobzXCnQniCEvChyB5GlOgbRi71LoUewC92I5aFdhK/PV0wI0hrv4z5M4nLCQAwSVH0XEiaUT/yrbSbM/S7mcF3vLy04H+crwV6P7pYHspvtqrRtBlYtbKpfS4fyNJrCpNICwJFaZJlJBbs4ky2enUUFIeAtuRQFPy/TRyjhtOCNSqTiWWKyWHzCZIYvN4AJFzlTS7lM+mq6ls00hBLM9bU1xLbqiQYhUyVeVx6ms2ZfUZRiHkoy6SKM8fNj3eC9qHADWTDl6hsqeVJQVHxkSvMC2HKfeolwdUHmclXlOhf4jUQdkGrTpqQLVL46yU1dJTtFGtss1drRN2WJTQkJgG4LNzxGOg4b46mPvZLxSbpUZd8IDosNvvTAj+Yiok+2kFBpwA/2MiBOOF7cI/7x21Nncvuvt7pwe7F53jo+Fxf3/3l9Ul8mvqpLB4JDuVqtHhbI5iTA6h5DUmzbaaWs2dXbfXp/GXAoNhOhreCgDchwEElIWeWzTZKQ9ITOAOQlfzPT29OmaYuZd250bYOfU5sgBoOuc9cNfzuMmuLOrF2eVB+/5HGmO10Mw71CrAX8yiF3ZZxHqx5BSSPc7F8rPPgg6rZN1KF5720wos8w3tZUevXqY9+xG9bOoU8szM8sophscecbdzTinl4llGrZZJcj74nzPKK5fcz7uKBAZuYD2juIvHcM3IUQMnSV7eLJNLZMrJ3YKJuZq/h6S+o2d8WlQHS2F18fJQ0Jl5SJhbxKS0hDmpIEw+EBQQ/gn+23rbbDaqKKjb2guU0OpKe4eDAeLqiFl5PniXiVhcXY9wDrBWnm5MeaRumr9DM0Ri0iVXFH+HcipG1Wc0j2J3KVp3vAMMKI7VA9o0avOuWO2+RepHuNwpzfWEPi6YVzR742Lu1Rdfn9g3Av9f",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2025-11-16 15:08:19</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\c++\My3DScanSystem\Hardware\Hardware.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--91TW8/Mi6GaMjBXaErn2F/OgJdQ1BK3QrPhlXZyAukA=-->
