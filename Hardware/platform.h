@@ -14,9 +14,6 @@ private:
 
 public:
     bool Open(const std::string& port);
-
     void Close();
-
     bool Move(uint8_t deviceID, uint16_t speed, bool direction);
-
 };

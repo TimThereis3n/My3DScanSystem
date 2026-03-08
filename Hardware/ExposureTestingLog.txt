@@ -1,10 +1,4 @@
-鏇濆厜璋冭瘯鏃ュ織
-[2025年11月17日 16:27:34] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us
-[2025年11月17日 16:31:54] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us
-[2025年11月17日 16:42:44] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us
-[2025年11月17日 16:43:16] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us
-[2025年11月17日 16:45:05] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us
-[2025年11月17日 16:45:53] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us
+曝光调试日志
 [2025.11.17 16:46:39] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us
 [2025.11.17 16:47:05] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us
 [2025.11.17 16:47:44] Camera_Exposure:80000us Pattern_Exposure:10000us Pattern_Period:300000us

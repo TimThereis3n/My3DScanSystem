@@ -2,7 +2,7 @@
 
 void runBasler(const std::string& folderPath)
 {
-    int wrong = 0;
+    bool wrong = false;
     int grabbedlmages = 0;
     double m_exposure = CameraExposure;
     size_t m_countOfImagesToGrab = ImagesToGrab;
@@ -104,16 +104,18 @@ void runBasler(const std::string& folderPath)
         std::this_thread::sleep_for(std::chrono::milliseconds(500));
 
         // ===== 等待相机进入“可接收下一次外部触发”的状态 =====
-        gCamTriggerReady = false;
+        bool triggerReady = false;
         if (!camera.WaitForFrameTriggerReady(5000, Pylon::TimeoutHandling_Return))
         {
             std::cerr << "[Camera] Not trigger-ready within 5s.\n";
-            gCamTriggerReady = false;
+            triggerReady = false;
         }
         else
         {
-            gCamTriggerReady = true;
+            triggerReady = true;
         }
+
+        gCamTriggerReady.store(triggerReady);
 
         size_t saved = 0;                 // 已经存储的图片数量
         const size_t need = ImagesToGrab; // 需要拍摄的图片数量
@@ -172,13 +174,8 @@ void runBasler(const std::string& folderPath)
     catch (const Pylon::GenericException& e)
     {
         std::cerr << "An exception occurred: " << e.GetDescription() << std::endl;
-        wrong = 1;
+        wrong = true;
         //std::cerr << "if Grab timed out Please choose your trigger line again" << std::endl;
-    }
-
-    if (wrong) {
-        system("pause");
-        return;
     }
 
     // 释放Pylon库
